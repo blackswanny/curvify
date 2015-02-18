@@ -1,1 +1,2 @@
-Small library for validation for touch devices.
+# curvify
+curvify
